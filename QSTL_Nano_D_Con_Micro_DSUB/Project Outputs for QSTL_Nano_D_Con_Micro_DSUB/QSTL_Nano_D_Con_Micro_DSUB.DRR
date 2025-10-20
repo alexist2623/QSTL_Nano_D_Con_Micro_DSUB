@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: QSTL_Nano_D_Con_Micro_DSUB.PcbDoc   2025-10-19  ¿ÀÈÄ 11:23:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : QSTL_Nano_D_Con_Micro_DSUB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             333       PTH        610.86mm (24.05inch)
+T2      0.368mm (15mil)                                           Round             72        PTH        82.06mm (3.23inch)
+T3      0.7mm (28mil)                                             Round             25        PTH        31.76mm (1.25inch)
+T4      1.778mm (70mil)                                           Round             16        PTH        84.86mm (3.34inch)
+T5      2.4mm (94mil)                                             Round             4         PTH        84.00mm (3.31inch)
+T6      2.8mm (110mil)                                            Round             2         PTH        24.55mm (0.97inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              452
+
+Total Processing Time (hh:mm:ss) : 00:00:00
