@@ -1,0 +1,101 @@
+Added Component: Designator=J1(A29500-009)
+Added Component: Designator=J2(A29500-009)
+Added Component: Designator=J3(A29500-009)
+Added Component: Designator=J4(A29500-009)
+Added Component: Designator=J5(380-025-113L001)
+Added Component: Designator=J6(A29500-009)
+Added Component: Designator=J7(A29500-009)
+Added Component: Designator=J8(A29500-009)
+Added Component: Designator=J9(A29500-009)
+Added Pin To Net: NetName=1 Pin=J1-3
+Added Pin To Net: NetName=1 Pin=J5-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=J1-4
+Added Pin To Net: NetName=2 Pin=J5-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=J1-5
+Added Pin To Net: NetName=3 Pin=J5-3
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=J3-3
+Added Pin To Net: NetName=4 Pin=J5-4
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=J3-4
+Added Pin To Net: NetName=5 Pin=J5-5
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=J3-5
+Added Pin To Net: NetName=6 Pin=J5-6
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=J5-7
+Added Pin To Net: NetName=7 Pin=J6-3
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=J5-8
+Added Pin To Net: NetName=8 Pin=J6-4
+Added Net: Name=8
+Added Pin To Net: NetName=9 Pin=J5-9
+Added Pin To Net: NetName=9 Pin=J6-5
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=J5-10
+Added Pin To Net: NetName=10 Pin=J8-3
+Added Net: Name=10
+Added Pin To Net: NetName=11 Pin=J5-11
+Added Pin To Net: NetName=11 Pin=J8-4
+Added Net: Name=11
+Added Pin To Net: NetName=12 Pin=J5-12
+Added Pin To Net: NetName=12 Pin=J8-5
+Added Net: Name=12
+Added Pin To Net: NetName=14 Pin=J2-3
+Added Pin To Net: NetName=14 Pin=J5-14
+Added Net: Name=14
+Added Pin To Net: NetName=15 Pin=J2-4
+Added Pin To Net: NetName=15 Pin=J5-15
+Added Net: Name=15
+Added Pin To Net: NetName=16 Pin=J2-5
+Added Pin To Net: NetName=16 Pin=J5-16
+Added Net: Name=16
+Added Pin To Net: NetName=17 Pin=J4-3
+Added Pin To Net: NetName=17 Pin=J5-17
+Added Net: Name=17
+Added Pin To Net: NetName=18 Pin=J4-4
+Added Pin To Net: NetName=18 Pin=J5-18
+Added Net: Name=18
+Added Pin To Net: NetName=19 Pin=J4-5
+Added Pin To Net: NetName=19 Pin=J5-19
+Added Net: Name=19
+Added Pin To Net: NetName=20 Pin=J5-20
+Added Pin To Net: NetName=20 Pin=J7-3
+Added Net: Name=20
+Added Pin To Net: NetName=21 Pin=J5-21
+Added Pin To Net: NetName=21 Pin=J7-4
+Added Net: Name=21
+Added Pin To Net: NetName=22 Pin=J5-22
+Added Pin To Net: NetName=22 Pin=J7-5
+Added Net: Name=22
+Added Pin To Net: NetName=23 Pin=J5-23
+Added Pin To Net: NetName=23 Pin=J9-3
+Added Net: Name=23
+Added Pin To Net: NetName=24 Pin=J5-24
+Added Pin To Net: NetName=24 Pin=J9-4
+Added Net: Name=24
+Added Pin To Net: NetName=25 Pin=J5-25
+Added Pin To Net: NetName=25 Pin=J9-5
+Added Net: Name=25
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J2-SH1
+Added Pin To Net: NetName=GND Pin=J2-SH2
+Added Pin To Net: NetName=GND Pin=J3-SH1
+Added Pin To Net: NetName=GND Pin=J3-SH2
+Added Pin To Net: NetName=GND Pin=J4-SH1
+Added Pin To Net: NetName=GND Pin=J4-SH2
+Added Pin To Net: NetName=GND Pin=J6-SH1
+Added Pin To Net: NetName=GND Pin=J6-SH2
+Added Pin To Net: NetName=GND Pin=J7-SH1
+Added Pin To Net: NetName=GND Pin=J7-SH2
+Added Pin To Net: NetName=GND Pin=J8-SH1
+Added Pin To Net: NetName=GND Pin=J8-SH2
+Added Pin To Net: NetName=GND Pin=J9-SH1
+Added Pin To Net: NetName=GND Pin=J9-SH2
+Added Net: Name=GND
+Added Class: Name=QSTL_Nano_D_Con_Micro_DSUB
+Added Room: Name=QSTL_Nano_D_Con_Micro_DSUB
+Added Rule: Name=Schematic Supply Nets

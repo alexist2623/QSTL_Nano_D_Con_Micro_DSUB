@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=14 Pin=J2-3
+Removed Pin From Net: NetName=16 Pin=J2-5
+Removed Pin From Net: NetName=17 Pin=J4-3
+Removed Pin From Net: NetName=19 Pin=J4-5
+Removed Pin From Net: NetName=20 Pin=J7-3
+Removed Pin From Net: NetName=22 Pin=J7-5
+Removed Pin From Net: NetName=23 Pin=J9-3
+Removed Pin From Net: NetName=25 Pin=J9-5
+Added Pin To Net: NetName=16 Pin=J2-3
+Added Pin To Net: NetName=14 Pin=J2-5
+Added Pin To Net: NetName=19 Pin=J4-3
+Added Pin To Net: NetName=17 Pin=J4-5
+Added Pin To Net: NetName=22 Pin=J7-3
+Added Pin To Net: NetName=20 Pin=J7-5
+Added Pin To Net: NetName=25 Pin=J9-3
+Added Pin To Net: NetName=23 Pin=J9-5
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J1 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J2 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J3 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J4 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J5 Micro DSUB
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J6 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J7 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J8 Nano D
+Added Member To Class: ClassName=QSTL_Nano_D_Con_Micro_DSUB Member=Component J9 Nano D
+Added Room: Name=QSTL_Nano_D_Con_Micro_DSUB
